@@ -1,9 +1,10 @@
 body{
-    
+        background-color: #ebd59b;
 }
 
 p{
-    
+    text-align: justify;
+
 }
 
 nav{
@@ -21,4 +22,15 @@ p.card-text{
 
 #alap{
     background-color: white;
+}
+
+h1, h2{
+    color: #0a0550;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.forrashivatkozas {
+    color: #8b0000;
+    text-decoration: none;
 }
